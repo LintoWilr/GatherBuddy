@@ -36,7 +36,7 @@
 	</PropertyGroup>
 
   <PropertyGroup>
-    <DalamudLibPath>D:\game\FF14\hack\XIVLauncherCN\Roaming\addon\Hooks\dev\</DalamudLibPath>
+    <DalamudLibPath>C:\XIVLauncherCN\Roaming\addon\Hooks\dev\</DalamudLibPath>
   </PropertyGroup>
 
   <ItemGroup>
